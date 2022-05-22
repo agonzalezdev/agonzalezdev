@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agonzalezdev
 - 👀 I’m interested in learn new tech
 - 🚩 I'm a passionate C# .NET developer 
-- 🌱 I’m currently learning frontend React ...
+- 🌱 I’m currently learning React & Unity ...
 - 📫 How to reach me: agonzalezdev33@gmail.com 
